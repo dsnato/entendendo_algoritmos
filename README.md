@@ -18,20 +18,23 @@ O conteúdo está organizado por capítulos do livro:
 ```
 📂 Entendendo_Algoritmos
 │── 📜 README.md (este arquivo)
-│── 📂 Capítulo_01 - Introdução
-│── 📂 Capítulo_02 - Algoritmos de Busca
-│── 📂 Capítulo_03 - Algoritmos de Ordenação
-│── 📂 Capítulo_04 - Recursão
-│── 📂 Capítulo_05 - Estruturas de Dados
-│── 📂 Capítulo_06 - Algoritmos de Grafos
-│── 📂 Capítulo_07 - Algoritmos Avançados
-│── 📂 Extras - Desafios e Aplicações
+│── 📂 Capítulo_01 - Introdução a algoritmos
+│── 📂 Capítulo_02 - Ordenação por seleção
+│── 📂 Capítulo_03 - Recursão
+│── 📂 Capítulo_04 - Quicksort
+│── 📂 Capítulo_05 - Tabelas hash
+│── 📂 Capítulo_06 - Pesquisa em largura
+│── 📂 Capítulo_07 - Algoritmo de Dijkstra
+│── 📂 Capítulo_08 - Algoritmos gulosos
+│── 📂 Capítulo_09 - Programação dinâmica
+│── 📂 Capítulo_10 - K-vizinhos mais próximos
+│── 📂 Capítulo_11 - Próximos passos
 ```
 Cada pasta contém os códigos-fonte e explicações dos algoritmos abordados.
 
 ## 🛠 Tecnologias Utilizadas
 - **Linguagem:** Python 🐍
-- **Ferramentas:** Jupyter Notebook, VS Code
+- **Ferramentas:** Pycharm
 
 ## 🚀 Como Contribuir
 Se você também está estudando este livro e quer trocar ideias, sinta-se à vontade para:
